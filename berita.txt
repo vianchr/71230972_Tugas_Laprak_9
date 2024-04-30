@@ -1,0 +1,8 @@
+Contoh 6.4 Anda diminta untuk membuat suatu deret dengan tampilan pada gambar 6.10.
+Pembahasan: Untuk dapat membuat kode program seperti di atas, maka logikanya adalah
+sebagai berikut:
+Karena n = misalnya 10, maka n akan menjadi outer loop (baris). i=n turun smp dengan 1.
+Untuk inner loop kita harus menuliskan terlebih dahulu spasi kosong sebanyak n-i-1. Setelah
+itu digabungkan dengan menampilkan bintang (*) sebanyak sisanya (1 s/d n-i-1)
+Untuk setiap loop pada inner, setelah habis maka lakukan enter / ganti baris dari outer loop.
+Kode program dapat dibuat sebagai berikut:
